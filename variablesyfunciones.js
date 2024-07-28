@@ -7,7 +7,7 @@ console.log("A continuación suma de dos números");
 console.log("la suma de los números es: "+ laSuma);
 
 
-// fución para despedida
+// fución para despedida cone l nombre del usuario
 function adios(nombre) {
     let Despedida = "Hasta pronto " + (nombre);
 
