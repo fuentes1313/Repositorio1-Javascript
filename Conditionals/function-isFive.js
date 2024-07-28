@@ -9,5 +9,6 @@ function isFive (number){
     }
 }
 
+// para imprimir en la consola
 console.log (isFive(5));
 console.log (isFive(13));
