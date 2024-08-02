@@ -10,9 +10,7 @@ function isSubstring(searchString, subString) {
         let resultadosifalso = "False";
         return resultadosifalso;
     }
-
-    
-  }
+ }
   
 console.log(isSubstring("The cat went to the store", "he cat went")); // => true
 console.log(isSubstring("Time to program", "time")); // => true
